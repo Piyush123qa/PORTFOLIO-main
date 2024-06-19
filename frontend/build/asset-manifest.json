@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.116451bc.css",
+    "main.js": "/static/js/main.ab28bbbf.js",
+    "static/media/amaz.png": "/static/media/amaz.4131449ca32b1125aea6.png",
+    "static/media/newz.png": "/static/media/newz.b5bc29649925db7470bc.png",
+    "static/media/Portfolio_project.png": "/static/media/Portfolio_project.dc2fe1bef9276efd23cd.png",
+    "static/media/Blog_pic.png": "/static/media/Blog_pic.dd92a4785efc5ba4e95e.png",
+    "static/media/anand-project.png": "/static/media/anand-project.34e8711b615bfe4da85c.png",
+    "static/media/note-app.png": "/static/media/note-app.2506f809c2ff51b89305.png",
+    "static/media/MongoDB-logo.webp": "/static/media/MongoDB-logo.db0d86670cd53df0619c.webp",
+    "static/media/bootstrap.png": "/static/media/bootstrap.f03c094b5587f84b6033.png",
+    "static/media/node.png": "/static/media/node.8716a89d425278ea7bc4.png",
+    "static/media/css.png": "/static/media/css.7b2eb4849c1c79b2be14.png",
+    "static/media/pic.png": "/static/media/pic.c7af45aaaf6caabaf5fb.png",
+    "static/media/logo.png": "/static/media/logo.d710006ac3eb7543e24d.png",
+    "static/media/postresql.png": "/static/media/postresql.d335fb4e26efbb31d38c.png",
+    "static/media/dsa.jpg": "/static/media/dsa.5eb55ffdc33098b9e39f.jpg",
+    "static/media/JavaScript-Logo.png": "/static/media/JavaScript-Logo.ec1c0379d0e87cc38946.png",
+    "static/media/OOPS.gif": "/static/media/OOPS.0dab3a0e3f76e61bb4ed.gif",
+    "static/media/react.jpg": "/static/media/react.71aaac37d81e31970cbc.jpg",
+    "static/media/java_logo.png": "/static/media/java_logo.082727062587e5c987c5.png",
+    "index.html": "/index.html",
+    "main.116451bc.css.map": "/static/css/main.116451bc.css.map",
+    "main.ab28bbbf.js.map": "/static/js/main.ab28bbbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116451bc.css",
+    "static/js/main.ab28bbbf.js"
+  ]
+}
